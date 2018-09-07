@@ -5,6 +5,12 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Python Server",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/Python.py"
+        },
+        {
             "name": "Python: Current File",
             "type": "python",
             "request": "launch",
